@@ -9,8 +9,8 @@
 | Indonesia | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-vsd-noplc](https://github.com/novomet-nls/mtb-vsd-noplc.git) | [ptb-ind](https://github.com/novomet-nls/ptb-ind.git) | 
 | USA (Katy) |  | [mtb-usa-katy](https://github.com/novomet-nls/mtb-usa-huston.git) | [ptb-usa-katy](https://github.com/novomet-nls/ptb-usa-katy.git) |
 | USA (Midland) | [ctb-can (maybe)](https://github.com/novomet-nls/ctb-can.git) | [mtb-usa-midland](https://github.com/novomet-nls/mtb-usa-midland.git) | [ptb-ecu](https://github.com/novomet-nls/ptb-ind.git) | [prtb-usa-midland](https://github.com/novomet-nls/prtb-usa-midland.git) |
-| USA (Cody) | | [mtb-usa-cody](https://github.com/novomet-nls/mtb-usa-cody.git) | 
-| Canada | [ctb-can](https://github.com/novomet-nls/ctb-can.git) | [mtb-can](https://github.com/novomet-nls/mtb-can.git) | [______] | [prtb-can](https://github.com/novomet-nls/prtb-can.git) |
+| USA (Cody) | | [mtb-usa-cody](https://github.com/novomet-nls/mtb-usa-cody.git) | [______] | [prtb-usa-midland](https://github.com/novomet-nls/prtb-usa-midland.git) |
+| Canada | [ctb-can](https://github.com/novomet-nls/ctb-can.git) | [mtb-can](https://github.com/novomet-nls/mtb-can.git) | [______] | [prtb-usa-midland](https://github.com/novomet-nls/prtb-usa-midland.git) |
 | Colombia | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-col](https://github.com/novomet-nls/mtb-col.git) | [ptb-col](https://github.com/novomet-nls/ptb-col.git) | 
 | Equador | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-vsd-noplc](https://github.com/novomet-nls/mtb-vsd-noplc.git) | 
 | Argentina | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-induction-regulator](https://github.com/novomet-nls/mtb-induction-regulator.git) | [ptb-arg](https://github.com/novomet-nls/ptb-arg.git) | 
