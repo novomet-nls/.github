@@ -15,7 +15,7 @@
 | Equador | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-vsd-noplc](https://github.com/novomet-nls/mtb-vsd-noplc.git) | [ptb-can](https://github.com/novomet-nls/ptb-can.git)
 | Argentina | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-induction-regulator](https://github.com/novomet-nls/mtb-induction-regulator.git) | [ptb-arg](https://github.com/novomet-nls/ptb-arg.git) | 
 | Turkey | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-turkey](https://github.com/novomet-nls/mtb-turkey.git) | [ptb-turkey](https://github.com/novomet-nls/ptb-turkey.git) | [prtb-turkey](https://github.com/novomet-nls/prtb-turkey.git) | 
-| Romain (archive) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-rou](https://github.com/novomet-nls/mtb-rou.git) | [ptb-rou](https://github.com/novomet-nls/ptb-rou.git) | [prtb-rou](https://github.com/novomet-nls/prtb-rou.git) |
+| Romania (archive) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-rou](https://github.com/novomet-nls/mtb-rou.git) | [ptb-rou](https://github.com/novomet-nls/ptb-rou.git) | [prtb-rou](https://github.com/novomet-nls/prtb-rou.git) |
 | Kuwait (archive) | 
 
 
