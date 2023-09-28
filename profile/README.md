@@ -19,6 +19,9 @@
 | Kuwait (archive) | | | [ptb-kwt](https://github.com/novomet-nls/ptb-kwt.git)
 | India | 
 
+# You need these links
+- [TIA Portal v15](https://disk.yandex.ru/d/qA3JuMSnuSSXNA/TIA%20Portal/TIA%20Portal%20v15) : 15 портал со всеми апдейтами и сервиспаками
+- [Automation Software](https://drive.google.com/drive/folders/1PLEDJPsmEEswPTEr3dosW3NYlFa0g2Z5) : много софта для различного промышленного оборудования, в том числе и для сименса ![pic1](https://github.com/novomet-nls/.github/assets/25728670/85b8ba8e-b29b-42de-a115-9e4d4e630518)
 
 <!--
 
