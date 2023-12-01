@@ -20,7 +20,7 @@
 | Romania (archive) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-rou](https://github.com/novomet-nls/mtb-rou.git) | [ptb-rou](https://github.com/novomet-nls/ptb-rou.git) | [prtb-rou](https://github.com/novomet-nls/prtb-rou.git) |
 | Kuwait (archive) | | | [ptb-kwt](https://github.com/novomet-nls/ptb-kwt.git)
 | India | 
-| UAE | [Press_MTB](https://github.com/novomet-nls/PressPED) |
+| UAE | | | | | | [Press_MTB](https://github.com/novomet-nls/PressPED) |
 
 # You need these links 
 ## Но внимание!!! нужно позаботиться о создании собственного хранилища. потому что данные ссылки предоставленны третьим лицом и могут в какой-то момент перестать работать🤷‍♂️
