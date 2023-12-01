@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 # Locations repositories
-| Location | Cable Test Bench | Motor Test Bench | Pump Test Bench | Protector Test Bench | TMS |
+| Location | Cable Test Bench | Motor Test Bench | Pump Test Bench | Protector Test Bench | TMS | Press PED |
 |----------|------------------|------------------|-----------------|----------------------|-----|
 | Egypt    | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-egy (plc)](https://github.com/novomet-nls/mtb-egy.git) |  | [prtb-egy](https://github.com/novomet-nls/prtb-egy.git) | [tms-base](https://github.com/novomet-nls/tms-base.git) |
 | Iraq (Basra) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-vsd-noplc](https://github.com/novomet-nls/mtb-vsd-noplc.git) | [ptb-irq-basra](https://github.com/novomet-nls/ptb-irq-basra.git) | [prtb-iraq-basra](https://github.com/novomet-nls/prtb-irq.git) | 
@@ -20,6 +20,7 @@
 | Romania (archive) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-rou](https://github.com/novomet-nls/mtb-rou.git) | [ptb-rou](https://github.com/novomet-nls/ptb-rou.git) | [prtb-rou](https://github.com/novomet-nls/prtb-rou.git) |
 | Kuwait (archive) | | | [ptb-kwt](https://github.com/novomet-nls/ptb-kwt.git)
 | India | 
+| UAE | [Press_MTB](https://github.com/novomet-nls/PressPED)
 
 # You need these links 
 ## Но внимание!!! нужно позаботиться о создании собственного хранилища. потому что данные ссылки предоставленны третьим лицом и могут в какой-то момент перестать работать🤷‍♂️
