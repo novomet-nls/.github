@@ -9,7 +9,7 @@
 | Iraq (Basra) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-vsd-noplc](https://github.com/novomet-nls/mtb-vsd-noplc.git) | [ptb-irq-basra](https://github.com/novomet-nls/ptb-irq-basra.git) | [prtb-iraq-basra](https://github.com/novomet-nls/prtb-irq.git) | 
 | Iraq (Erbil) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-egy (noplc)](https://github.com/novomet-nls/mtb-egy-noplc.git) | 
 | Indonesia | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-vsd-noplc](https://github.com/novomet-nls/mtb-vsd-noplc.git) | [ptb-ind](https://github.com/novomet-nls/ptb-ind.git) | 
-| USA (Katy) |  | [mtb-usa-katy](https://github.com/novomet-nls/mtb-usa-huston.git) | [ptb-usa-katy](https://github.com/novomet-nls/ptb-usa-katy.git) |
+| USA (Katy) |  | [mtb-usa-katy](https://github.com/novomet-nls/mtb-usa-huston.git) | [ptb-usa-katy](https://github.com/novomet-nls/ptb-usa-katy.git) | [prtb-usa-katy](https://github.com/novomet-nls/prtb-katy) |
 | USA (Midland) | [ctb-can (maybe)](https://github.com/novomet-nls/ctb-can.git) | [mtb-usa-midland](https://github.com/novomet-nls/mtb-usa-midland.git) | [ptb-ecu](https://github.com/novomet-nls/ptb-ind.git) | [prtb-usa-midland](https://github.com/novomet-nls/prtb-usa-midland.git) |
 | USA (Cody) | | [mtb-usa-cody](https://github.com/novomet-nls/mtb-usa-cody.git) |  | [prtb-usa-midland](https://github.com/novomet-nls/prtb-usa-midland.git) |
 | Canada | [ctb-can](https://github.com/novomet-nls/ctb-can.git) | [mtb-can](https://github.com/novomet-nls/mtb-can.git) | [ptb-can](https://github.com/novomet-nls/ptb-can.git) | [prtb-usa-midland](https://github.com/novomet-nls/prtb-usa-midland.git) |
