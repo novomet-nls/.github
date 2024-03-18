@@ -23,6 +23,7 @@
 | UAE | | | | | | [Press_MTB](https://github.com/novomet-nls/PressPED) |
 # BMS
 | Server | bmslauncher | bmslibrary | bmsdeploy | bmsreportviewer | BMSSchemaDesigner | |
+[Status](https://docs.google.com/spreadsheets/d/1U42WpWkBH0iMuo8jVvH7wjrm9n1nQ1GtiHSsv_Rdxqw/edit#gid=1551941503)
 # You need these links 
 ## Но внимание!!! нужно позаботиться о создании собственного хранилища. потому что данные ссылки предоставленны третьим лицом и могут в какой-то момент перестать работать🤷‍♂️
 - [TIA Portal v15 : 15 портал со всеми апдейтами и сервиспаками](https://disk.yandex.ru/d/qA3JuMSnuSSXNA/TIA%20Portal/TIA%20Portal%20v15)
