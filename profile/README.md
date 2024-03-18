@@ -21,7 +21,8 @@
 | Kuwait (archive) | | | [ptb-kwt](https://github.com/novomet-nls/ptb-kwt.git)
 | India | 
 | UAE | | | | | | [Press_MTB](https://github.com/novomet-nls/PressPED) |
-
+# BMS
+| Server | bmslauncher | bmslibrary | bmsdeploy | bmsreportviewer | BMSSchemaDesigner | Press PED |
 # You need these links 
 ## Но внимание!!! нужно позаботиться о создании собственного хранилища. потому что данные ссылки предоставленны третьим лицом и могут в какой-то момент перестать работать🤷‍♂️
 - [TIA Portal v15 : 15 портал со всеми апдейтами и сервиспаками](https://disk.yandex.ru/d/qA3JuMSnuSSXNA/TIA%20Portal/TIA%20Portal%20v15)
