@@ -6,7 +6,7 @@
 | Location | Cable Test Bench | Motor Test Bench | Pump Test Bench | Protector Test Bench | TMS | Press PED |
 |----------|------------------|------------------|-----------------|----------------------|-----|-----------|
 | Egypt    | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-egy (plc)](https://github.com/novomet-nls/mtb-egy.git) | [ptb-egy](https://github.com/novomet-nls/ptb-egy.git) | [prtb-egy](https://github.com/novomet-nls/prtb-egy.git) | [tms-base](https://github.com/novomet-nls/tms-base.git) |
-| Iraq (Basra) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-vsd-noplc](https://github.com/novomet-nls/mtb-vsd-noplc.git) | [ptb-irq-basra](https://github.com/novomet-nls/ptb-irq-basra.git) | [prtb-iraq-basra](https://github.com/novomet-nls/prtb-irq.git) | 
+| Iraq (Basra) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-vsd-noplc](https://github.com/novomet-nls/mtb-vsd-noplc.git) | [ptb-irq-basra](https://github.com/novomet-nls/ptb-irq-basra.git) | [prtb-iraq-basra](https://github.com/novomet-nls/prtb-irq.git) [(NEW)](https://github.com/novomet-nls/prtb_new)| 
 | Iraq (Erbil) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-egy (noplc)](https://github.com/novomet-nls/mtb-egy-noplc.git) | 
 | Indonesia | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-vsd-noplc](https://github.com/novomet-nls/mtb-vsd-noplc.git) | [ptb-ind](https://github.com/novomet-nls/ptb-ind.git) | 
 | USA (Katy) |  | [mtb-usa-katy](https://github.com/novomet-nls/mtb-usa-huston.git) | [ptb-usa-katy](https://github.com/novomet-nls/ptb-usa-katy.git) | [prtb-usa-katy](https://github.com/novomet-nls/prtb-katy) |
