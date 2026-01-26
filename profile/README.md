@@ -20,7 +20,7 @@
 | Romania (archive) | [ctb-18kV universal](https://github.com/novomet-nls/ctb-18kV.git) | [mtb-rou](https://github.com/novomet-nls/mtb-rou.git) | [ptb-rou](https://github.com/novomet-nls/ptb-rou.git) | [prtb-rou](https://github.com/novomet-nls/prtb-rou.git) |
 | Kuwait (archive) | | | [ptb-kwt](https://github.com/novomet-nls/ptb-kwt.git)
 | India | 
-| UAE | | |[ptb-uae-plc](https://github.com/novomet-nls/ptb-are-plc_v14.git) | | | [Press_MTB](https://github.com/novomet-nls/PressPED) |
+| UAE | | |[ptb-uae-plc](https://github.com/novomet-nls/ptb-are-plc_v14.git) | [prtb-unified](https://github.com/novomet-nls/prtb_unified/commit/3b162a34735dfc7eaa287c4a0d493925e32bd80b) [prtb-plcproj_v14](https://github.com/novomet-nls/prtb_unified_PLC_v14/commit/756e5bb3b68d53ea727e9cc4e36e24ed0b9a9425) | | [Press_MTB](https://github.com/novomet-nls/PressPED) |
 # BMS
 | Server | bmslauncher | bmslibrary | bmsdeploy | bmsreportviewer | BMSSchemaDesigner | |
 [Status](https://docs.google.com/spreadsheets/d/1U42WpWkBH0iMuo8jVvH7wjrm9n1nQ1GtiHSsv_Rdxqw/edit#gid=1551941503)
